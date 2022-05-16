@@ -12,3 +12,5 @@ used by many identity thefts.
 This report will go through how we examine a credit card and cell phone application dataset and
 how we attempt to build a supervised learning model to identify real-time application fraud. We
 used Python to conduct all the analysis.
+
+Team member:Jiaqin Lu, Li Huang, Yifan Shi, Yiqi Yang, Yimi Li, Yuan Xin
